@@ -11,6 +11,7 @@ Un blog increíble para el [curso de Git y Github](https://github.com/edwin1920/
 * Las personalidades multiples de freddy
 * Creado por el increible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para ej ejemplo. Si llegas aca NO TE LO TOMES ENSERIO.
 
